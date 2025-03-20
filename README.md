@@ -143,7 +143,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions, feedback, or collaborations, feel free to reach out:
 
 - **Email**: kinhofcod4242@gmail.com
-- **GitHub**: [kinhofcod4242](https://github.com/kinhofcod4242)
+- **GitHub**: [Aimgodbro](https://github.com/Aimgodbro)
 
 ---
 
