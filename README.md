@@ -42,7 +42,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aimgodbro/MITRA-.git
-   cd MITRA
+   cd MITRA-
    ```
 
 2. Install dependencies:
