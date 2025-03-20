@@ -41,7 +41,7 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kinhofcod4242/MITRA.git
+   git clone https://github.com/Aimgodbro/MITRA.git
    cd MITRA
    ```
 
